@@ -10,37 +10,41 @@ body{
 
 header, nav, article, div, footer{
     padding: 10px;
-    background-color: yellow;
+    
     border: 1px solid gray;
     text-align: center;
 }
 
 header{
     width: 100%;
+    background-color: bc85a3;
 }
 
 footer{
     width: 100%;
     clear: both;
-
+    background-color: bc85a3;
 }
 
 nav{
     width: 20%;
     height: 200px;
     float: left;
+    background-color: f9e1e0;
 }
 
 article{
     width: 60%;
     height: 200px;
     float: left;
+     
 }
 
 div{
     width: 20%;
     height: 200px;
     float: left;
+    background-color: f9e1e0;
 }
 
 
